@@ -34,7 +34,7 @@ This Jupyter notebook explores the task of predicting diabetes based on a compre
 
 ## Acknowledgment
 
-Special thanks to the [julnazz](https://www.kaggle.com/julnazz) of the [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset?select=diabetes_binary_health_indicators_BRFSS2021.csv) on Kaggle.
+Special thanks to the [julnazz](https://www.kaggle.com/julnazz) author of the [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset?select=diabetes_binary_health_indicators_BRFSS2021.csv) on Kaggle.
 
 ## Conclusion
 
